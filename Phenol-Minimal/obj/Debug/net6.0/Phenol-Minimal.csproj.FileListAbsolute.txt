@@ -1,0 +1,14 @@
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\bin\Debug\net6.0\Phenol-Minimal.exe
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\bin\Debug\net6.0\Phenol-Minimal.deps.json
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\bin\Debug\net6.0\Phenol-Minimal.runtimeconfig.json
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\bin\Debug\net6.0\Phenol-Minimal.dll
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\bin\Debug\net6.0\Phenol-Minimal.pdb
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\obj\Debug\net6.0\Phenol-Minimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\obj\Debug\net6.0\Phenol-Minimal.AssemblyInfoInputs.cache
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\obj\Debug\net6.0\Phenol-Minimal.AssemblyInfo.cs
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\obj\Debug\net6.0\Phenol-Minimal.csproj.CoreCompileInputs.cache
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\obj\Debug\net6.0\Phenol-Minimal.dll
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\obj\Debug\net6.0\refint\Phenol-Minimal.dll
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\obj\Debug\net6.0\Phenol-Minimal.pdb
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\obj\Debug\net6.0\Phenol-Minimal.genruntimeconfig.cache
+C:\Users\ikkia\source\repos\Phenol-Minimal\Phenol-Minimal\obj\Debug\net6.0\ref\Phenol-Minimal.dll
